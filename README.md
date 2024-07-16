@@ -16,3 +16,6 @@ Esta aplicacion en consola es muy fácil de manejar y muy instintiva para que cu
 
 
 
+
+![AAAAAAAAAAA](https://github.com/user-attachments/assets/7b6cfe87-5127-490e-8d13-38e5d7b8fdfa)
+
